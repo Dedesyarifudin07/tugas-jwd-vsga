@@ -1,0 +1,12 @@
+.hero{
+    height: 250px;
+    line-height: 250px;
+}
+.sidebar1,.sidebar2{
+  height: 250px;
+  line-height: 240px;
+}
+.footer{
+    height: 110px;
+    line-height: 110px;
+}

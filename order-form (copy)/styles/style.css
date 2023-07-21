@@ -1,0 +1,22 @@
+.container{
+    width: 600px;
+    margin: auto;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+}
+
+.capucino, .mixue ,.naspad ,.seblak , .cilor ,.total{
+    width: 100%;
+    display: flex;
+    gap: 10px;
+   
+    justify-content: space-between;
+    align-items: center;
+}
+
+.blue{
+    background-color: rgb(238, 241, 4);
+
+}
+

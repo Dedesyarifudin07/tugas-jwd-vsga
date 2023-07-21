@@ -1,0 +1,15 @@
+body{
+    width:60%;
+    margin: auto;
+    text-align: center;
+}
+
+
+h1{
+    margin-bottom: 20px;
+}
+
+
+input{
+    width:200px;
+}
